@@ -1,0 +1,22 @@
+body{
+    margin: 0 auto;
+    text-align: center;
+}
+
+header {
+    background-color:olive;
+}
+
+.info {
+    background-color:darkred;
+    color: darkgoldenrod;
+}
+
+.sickWheels {
+    margin: 0 auto;
+    border-style: dotted;
+    border-color: purple;
+    border-width: 20px;
+    max-width: max-content;
+    padding: 10px;
+}
